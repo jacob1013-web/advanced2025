@@ -1,0 +1,8 @@
+{
+    "response": {
+        "header": {
+            "resultCode": "99",
+            "resultMsg": "전날 자료까지 제공됩니다. 날짜 범위를 확인해주세요."
+        }
+    }
+}
